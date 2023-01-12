@@ -12,4 +12,4 @@ A simple Flutter timer using bloc architecture as part of a set of tutorials in 
 - Use the transformEvents method with Rx.
 
 ## A brief glance
-![Flutter Bloc Timer Screenshot](https://github.com/AlejandroCisnero/Flutter-Bloc-Timer/../../../../lib/assets/images/flutter_timer_screenshot.jpeg)
+![Flutter Bloc Timer Screenshot](https://github.com/AlejandroCisnero/Flutter-Bloc-Timer/lib/assets/images/flutter_timer_screenshot.jpeg)
